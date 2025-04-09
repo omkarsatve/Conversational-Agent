@@ -33,6 +33,14 @@ Creates an interactive chatbot using:
 - Easy to extend for web interfaces using Streamlit or Gradio
 
 ---
+**### 4. `Challanges`**
+1. Using Open Source Embedding Models (Resource Constraints)
+Instead of using closed or hosted embeddings (like OpenAI or Cohere), we integrated Hugging Face’s open-source model all-MiniLM-L6-v2. While this reduces cost and increases flexibility.
+
+2. Preprocessing Needed to Improve Chat Quality
+
+3. DXFactor Website Blocks API Crawlers
+---
 
 ## ⚙️ Requirements
 
@@ -62,10 +70,4 @@ Omkar_project_files/
 └── README.md
 
 
-**### 4. `Challanges`**
-1. Using Open Source Embedding Models (Resource Constraints)
-Instead of using closed or hosted embeddings (like OpenAI or Cohere), we integrated Hugging Face’s open-source model all-MiniLM-L6-v2. While this reduces cost and increases flexibility.
 
-2. Preprocessing Needed to Improve Chat Quality
-
-3. DXFactor Website Blocks API Crawlers
